@@ -8,6 +8,7 @@ namespace GigHub.Controllers
 {
     public class GigsController : Controller
     {
+        //readonly helps to initialize only in the constructor
         private readonly ApplicationDbContext _context;
 
         public GigsController()
