@@ -79,3 +79,22 @@ span.field-validation-error {
     font-size:15px;
     display:block;
 }
+
+.verticalOffset{
+    margin-top:2px;
+}
+.verticalOffset1{
+    margin-top:5px;
+}
+.verticalOffset2{
+    margin-top:10px;
+}
+.verticalOffset3{
+    margin-top:20px;
+}
+.verticalOffset4{
+    margin-top:40px;
+}
+.verticalOffset5{
+    margin-top:80px;
+}
